@@ -77,41 +77,10 @@ matplotlib
 
 ---
 
-# Como executar os algoritmos
-
-Cada algoritmo pode ser executado diretamente pelo Python.
-
-Exemplos:
-
-```bash
-python ae_nh.py
-```
-
-```bash
-python ae_delta.py
-```
-
-```bash
-python ae_es.py
-```
-
-```bash
-python aemmt_4.py
-```
-
-```bash
-python aemmt_5.py
-```
-
----
 
 # Configuração dos experimentos
 
-Antes de executar os códigos, é necessário ajustar alguns parâmetros no bloco principal de cada arquivo Python, geralmente localizado ao final do código:
-
-```python
-if __name__ == "__main__":
-```
+Antes de executar os códigos, é necessário ajustar alguns parâmetros no bloco principal de cada arquivo Python:
 
 Entre os principais parâmetros que podem ser configurados estão:
 
