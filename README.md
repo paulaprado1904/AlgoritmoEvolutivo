@@ -20,8 +20,8 @@ O repositório contém os seguintes algoritmos:
 - **AE NH**: Algoritmo evolutivo com foco na maximização de contatos hidrofóbicos `nH`.
 - **AE DELTA**: Algoritmo evolutivo com foco na métrica `delta`, que combina qualidade da solução e compactação.
 - **AE ES**: Algoritmo evolutivo com foco na energia simplificada `Es`.
-- **AEMMT 4**: Algoritmo evolutivo multiobjetivo com manutenção de 4 tabelas/subpopulações.
 - **AEMMT 5**: Algoritmo evolutivo multiobjetivo com manutenção de 5 tabelas/subpopulações.
+- **AEMMT 6**: Algoritmo evolutivo multiobjetivo com manutenção de 6 tabelas/subpopulações.
 
 Cada código implementa uma estratégia distinta para geração, avaliação e seleção de soluções candidatas no problema de dobramento proteico.
 
