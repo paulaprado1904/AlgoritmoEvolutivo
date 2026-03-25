@@ -3,7 +3,9 @@ TCC - Investigação de Variantes do Algoritmo Evolutivo
 
 # Algoritmos Evolutivos para o Problema de Predição de Proteínas no Modelo HP 3D
 
-Este repositório contém implementações de algoritmos evolutivos desenvolvidos no contexto do Trabalho de Conclusão de Curso (TCC), com foco no problema de dobramento de proteínas no modelo HP em malha tridimensional.
+Este repositório contém implementações de algoritmos evolutivos desenvolvidos no contexto do Trabalho de Conclusão de Curso (TCC) do curso de Ciência da Computação da Universidade Federal de Uberlândia (UFU), na Faculdade de Computação (FACOM).
+
+O trabalho tem como foco o problema de predição de estruturas de proteínas no modelo Hidrofóbico-Polar tridimensional (HP-3D), utilizando abordagens baseadas em algoritmos evolutivos e otimização multiobjetivo.
 
 ## Objetivo
 
