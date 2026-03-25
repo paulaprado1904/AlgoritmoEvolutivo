@@ -1,6 +1,10 @@
-# AlgoritmoEvolutivo
-TCC - Investigação de Variantes do Algoritmo Evolutivo
-FACOM - UFU
+# Algoritmos Evolutivos para Predição de Proteínas (HP-3D)
+
+Trabalho de Conclusão de Curso (TCC)  
+Investigação de Variantes de Algoritmos Evolutivos  
+
+Faculdade de Computação (FACOM)  
+Universidade Federal de Uberlândia (UFU)
 
 # Algoritmos Evolutivos para o Problema de Predição de Proteínas no Modelo HP 3D
 
